@@ -1,0 +1,2 @@
+module OmniConsumerHelper
+end

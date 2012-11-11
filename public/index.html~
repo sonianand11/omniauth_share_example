@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails: Welcome aboard</title>
+  </head>
+  <body>
+    <a href="/auth/facebook">connect with facebook</a></br>
+    <a href="/auth/twitter"><img height="10" width="20" src="http://25.media.tumblr.com/tumblr_l14y3rjwsG1qbv78mo1_250.png" /></a></br>
+    <a href="/auth/google_oauth2"><img height="10" width="20" src="http://www.digimantra.com/blog/wp-content/uploads/2009/11/google_icon.png" /></a></br>
+
+  </body>
+</html>
