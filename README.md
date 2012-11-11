@@ -23,13 +23,13 @@ twitter : https://dev.twitter.com/apps
 
 Note: there is a issues in callback url in twitter.
 
-![Twitter Detail](https://github.com/sonianand11/omniauth_share_example/master/TW1.png)
+![Twitter Detail](https://raw.github.com/sonianand11/omniauth_share_example/master/TW1.png)
 
-![Twitter Setting](https://github.com/sonianand11/omniauth_share_example/master/TW2.png)
+![Twitter Setting](https://raw.github.com/sonianand11/omniauth_share_example/master/TW2.png)
 
 google : https://code.google.com/apis/console
 
-![Google](https://github.com/sonianand11/omniauth_share_example/master/Google.png)
+![Google](https://raw.github.com/sonianand11/omniauth_share_example/master/Google.png)
 
 
 
