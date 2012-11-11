@@ -21,9 +21,11 @@ How to get client id and secret key
 
 ## twitter : https://dev.twitter.com/apps
 
-###### Note : there is a issues in callback url in twitter.
+###### twitter Detail tab
 
 ![Twitter Detail](https://raw.github.com/sonianand11/omniauth_share_example/master/TW1.png)
+
+###### twitter setting tab
 
 ![Twitter Setting](https://raw.github.com/sonianand11/omniauth_share_example/master/TW2.png)
 
