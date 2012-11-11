@@ -19,15 +19,15 @@ create app on:
 
 facebook  : https://developers.facebook.com/apps
 
-![Facebook](https://github.com/sonianand11/omniauth_share_example/row/master/FB.png)
+![Facebook](https://github.com/sonianand11/omniauth_share_example/blob/master/FB.png)
 
 twitter : https://dev.twitter.com/apps
 Note: there is a issues in callback url in twitter.
-![Twitter Detail](https://github.com/sonianand11/omniauth_share_example/row/master/TW1.png)
-![Twitter Setting](https://github.com/sonianand11/omniauth_share_example/row/master/TW2.png)
+![Twitter Detail](https://github.com/sonianand11/omniauth_share_example/blob/master/TW1.png)
+![Twitter Setting](https://github.com/sonianand11/omniauth_share_example/blob/master/TW2.png)
 
 google : https://code.google.com/apis/console
-![Google](https://github.com/sonianand11/omniauth_share_example/row/master/Google.png)
+![Google](https://github.com/sonianand11/omniauth_share_example/blob/master/Google.png)
 
 
 
