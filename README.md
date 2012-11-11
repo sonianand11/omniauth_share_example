@@ -15,19 +15,19 @@ To set your clinet Id and secret key, check the `config/initializer/omniauth.rb`
 How to get client id and secret key
 ====================================
 
-facebook  : https://developers.facebook.com/apps
+## facebook ## : https://developers.facebook.com/apps
 
 ![Facebook](https://raw.github.com/sonianand11/omniauth_share_example/master/FB.png)
 
-twitter : https://dev.twitter.com/apps
+## twitter ## : https://dev.twitter.com/apps
 
-Note: there is a issues in callback url in twitter.
+### Note ###### : there is a issues in callback url in twitter.
 
 ![Twitter Detail](https://raw.github.com/sonianand11/omniauth_share_example/master/TW1.png)
 
 ![Twitter Setting](https://raw.github.com/sonianand11/omniauth_share_example/master/TW2.png)
 
-google : https://code.google.com/apis/console
+## google ## : https://code.google.com/apis/console
 
 ![Google](https://raw.github.com/sonianand11/omniauth_share_example/master/Google.png)
 
